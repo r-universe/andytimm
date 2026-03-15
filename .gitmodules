@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/andytimm/andytimm.r-universe.dev
 	branch = HEAD
+[submodule "regrake"]
+	path = regrake
+	url = https://github.com/andytimm/regrake
 [submodule "retrodesign"]
 	path = retrodesign
 	url = https://github.com/andytimm/retrodesign
