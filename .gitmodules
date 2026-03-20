@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/andytimm/andytimm.r-universe.dev
 	branch = HEAD
+[submodule "nutpieR"]
+	path = nutpieR
+	url = https://github.com/andytimm/nutpieR
 [submodule "regrake"]
 	path = regrake
 	url = https://github.com/andytimm/regrake
